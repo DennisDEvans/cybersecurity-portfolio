@@ -9,16 +9,16 @@ I took advantage of the free ISC2 membership program to build a strong foundatio
 
 ---
 
-## 🛡 Certifications & Training  
 ## 🏅 Certifications & Training
+- [CC Course Conclusion & Final Assessment (ISC2)](./certifications/CC%20Course%20Conclusion%20&%20Final%20Assessment.pdf) *(Valid until April 2028)*  
 - [Domain 1 – Security Principles (PDF)](./certifications/Domain%201%20-%20Security%20Principles.pdf)  
 - [Domain 2 – Incident Response, Business Continuity & Disaster Recovery Concepts (PDF)](./certifications/Domain%202%20-%20Incident%20Response%2C%20Business%20Continuity%20and%20Disaster%20Recovery%20Concepts.pdf)  
 - [Domain 3 – Access Control Concepts (PDF)](./certifications/Domain%203%20-%20Access%20Control%20Concepts.pdf)  
 - [Domain 4 – Network Security (PDF)](./certifications/Domain%204%20-%20Network%20Security.pdf)  
 - [Domain 5 – Security Operations (PDF)](./certifications/Domain%205%20-%20Security%20Operations.pdf)  
 - [Notary Public – Dennis Evans (PDF)](./certifications/Notary%20Public%20-%20Dennis%20Evans.pdf) *(Active – Expires Jan 2026)*  
-- [Paralegal Certificate – Purdue University (PDF)](./certifications/Purdue%20-%20Paralegal%20Certificate%20Course.pdf) *(Expired)*  
 - [Associate’s Degree – Full Sail University (PDF)](./certifications/Full%20Sail%20University%20-%20Associate%20of%20Science%20Degree.pdf) (2014)  
+- [Paralegal Certificate – Purdue University (PDF)](./certifications/Purdue%20-%20Paralegal%20Certificate%20Course.pdf) *(Expired)*  
 - Google Cybersecurity Professional Certificate *(in progress)*
 ---
 
