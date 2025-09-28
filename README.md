@@ -1,5 +1,5 @@
 # Dennis Evans – Cybersecurity Portfolio  
-**Aspiring Cybersecurity Analyst | ISC2 CC Certified | Google Cybersecurity (In Progress) | U.S. Veteran with Finance, Healthcare & Logistics Experience**
+**Aspiring Cybersecurity Analyst | Completed ISC2 CC Training (Domains 1–5) | Google Cybersecurity Certificate (In Progress) | U.S. Veteran with Finance, Healthcare & Logistics Experience**
 
 👋 **About Me**  
 I am a disciplined and mission-driven professional transitioning into cybersecurity, bringing over two decades of experience across military, financial, healthcare, and logistics environments. My strengths include analytical problem-solving, attention to detail, and calm performance under pressure—qualities forged during my service as a U.S. Air Force F-16 aircraft mechanic and U.S. Marine Corps warehouse clerk, and later refined through work in finance, healthcare, and business ownership.  
