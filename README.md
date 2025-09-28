@@ -17,8 +17,9 @@ I took advantage of the free ISC2 membership program to build a strong foundatio
 
 ---
 
-## 💻 Portfolio Projects  
-*(More will be added as I progress through the Google Cybersecurity Certificate)*  
+🔗 [View Projects Folder](./projects)
+
+*(More will be added as I progress through the Google Cybersecurity Certificate)*
 
 - **Security Audit Report** – [link to file or PDF]  
 - **Network Structure & Security Analysis** – [link or diagram]  
